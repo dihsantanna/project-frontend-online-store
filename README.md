@@ -129,4 +129,9 @@ A página _web_ consome os dados da API do _Mercado Livre_ para realizar a busca
 
 Se você quiser aprender mais sobre a API do _Mercado Livre_, veja a [documentação](https://developers.mercadolivre.com.br/pt_br/itens-e-buscas).
 
+
+## Futuramente
+
+* Pretendo adicionar pagina final de confirmação de dados e pagina final de compra concluída. 
+* Adicionar validação mais robusta ao formulário.
   
