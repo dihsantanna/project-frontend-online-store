@@ -4,7 +4,7 @@ EXPOSE 3000
 
 WORKDIR /front-end-online-store
 
-COPY pckage*.json ./
+COPY package*.json ./
 
 RUN npm install --silent
 
