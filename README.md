@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto de Front-End Online Store!  
+# Boas vindas ao repositório do projeto de Front-End Online Store!
 
 ## `Habilidades`
 
@@ -16,7 +16,7 @@ Nesse projeto, foram desenvolvidos:
 
   
 
-## `O que deverá ser desenvolvido`
+## `O que foi desenvolvido`
 
   
 
@@ -36,6 +36,11 @@ Neste projeto foi criado uma versão simplificada, sem persistência no banco de
 
 
 ## `Instruções para usar a aplicação:`
+
+---
+### `ATENçÃO: Caso queira somente ver a aplicação já em funcionamento acesse o link abaixo, caso queira roda-la em modo de desenvolvimento prossiga para o passo (1).`
+
+* [link do deploy da aplicação](https://online-store-dihsantanna.netlify.app/)
 
 ---
 
