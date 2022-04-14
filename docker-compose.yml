@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  online-store-react-app:
+    container_name: online-store
+    build: .
+    image: online-store-image
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: npm start
+    stdin_open: true
+    restart: always

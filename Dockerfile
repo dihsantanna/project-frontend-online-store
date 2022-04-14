@@ -1,12 +1,12 @@
-FROM node:16-alpine
+FROM node:16-alpine as build
 
-EXPOSE 3000
-
-WORKDIR /front-end-online-store
+WORKDIR /app
 
 COPY package*.json ./
 
 RUN npm install --silent
+
+EXPOSE 3000
 
 COPY . .
 
