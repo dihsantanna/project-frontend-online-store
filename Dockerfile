@@ -1,6 +1,6 @@
 FROM node:16-alpine
 
-EXPOSE 3001
+EXPOSE 3000
 
 WORKDIR /front-end-online-store
 
